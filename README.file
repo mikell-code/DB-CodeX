@@ -1,0 +1,15 @@
+# Mini Library Management System
+
+This is a simple Python-based library management system using dictionaries, lists, and tuples for data structures.
+
+## Files
+- operations.py: Contains core functions and data structures.
+- demo.py: Demo script showing system usage.
+- tests.py: Unit tests using assert.
+- UML.png: Hand-drawn UML diagram (scan or photo; not included in text).
+- DesignRationale.pdf: Explanation of design choices (content provided separately).
+
+## How to Run
+1. Ensure Python is installed.
+2. Run the demo: `python demo.py`
+3. Run the tests: `python tests.py`
